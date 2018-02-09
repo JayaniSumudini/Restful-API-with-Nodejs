@@ -1,0 +1,27 @@
+{
+  "name": "restful-api-with-nodejs",
+  "version": "1.0.0",
+  "description": "A RESTfull API with node.js (create a simple training project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayaniSumudini/Restful-API-with-Nodejs.git"
+  },
+  "keywords": [
+    "restfull",
+    "node.js",
+    "api"
+  ],
+  "author": "https://github.com/JayaniSumudini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayaniSumudini/Restful-API-with-Nodejs/issues"
+  },
+  "homepage": "https://github.com/JayaniSumudini/Restful-API-with-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
